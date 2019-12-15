@@ -4,7 +4,7 @@
 	"//3": "updating this file will download and update your packages",
 	"name": "my-hyperdev-app",
 	"version": "0.0.1",
-	"description": "What am I about?",
+	"description": "anonymous-message-board - freeCodeCamp. Information Security and Quality Assurance Project",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
@@ -26,12 +26,11 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://hyperdev.com/#!/project/welcome-project"
+		"url": "https://github.com/gb-simon/anonymous-message-board"
 	},
 	"keywords": [
 		"node",
 		"hyperdev",
 		"express"
-	],
-	"license": "MIT"
+	]
 }
